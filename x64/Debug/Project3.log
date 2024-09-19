@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Gwendolyn\source\repos\Project3\Project3\main.c(182,32): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Gwendolyn\source\repos\Project3\Project3\main.c(326,7): warning C4101: 'objData': unreferenced local variable
+  Project3.vcxproj -> C:\Users\Gwendolyn\source\repos\Project3\x64\Debug\Project3.exe
